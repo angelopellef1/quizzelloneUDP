@@ -43,7 +43,8 @@ namespace WindowsFormsApplication1
         private void button1_Click(object sender, System.EventArgs e)
         {
             ServerOn = true;
-            server.Server("192.168.0.119", 27000);
+            label1.Text = GetLocalIPAddress();
+            server.Server(label1.Text, 27000);
             timer1.Enabled = true;
             button1.Text = "Start";
             label1.Text = GetLocalIPAddress();
