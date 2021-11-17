@@ -7,3 +7,7 @@ c:\users\itanpel2\documents\visual studio 2013\Projects\WindowsFormsApplication1
 c:\users\itanpel2\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\QuizzelloneUDP.Properties.Resources.resources
 c:\users\itanpel2\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\QuizzelloneUDP.exe
 c:\users\itanpel2\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\QuizzelloneUDP.pdb
+c:\users\itanpel2\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\QuizzelloneUDP.exe.manifest
+c:\users\itanpel2\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\QuizzelloneUDP.application
+c:\users\itanpel2\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\QuizzelloneUDP.exe.manifest
+c:\users\itanpel2\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\QuizzelloneUDP.application
